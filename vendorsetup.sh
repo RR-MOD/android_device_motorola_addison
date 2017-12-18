@@ -1,1 +1,1 @@
-add_lunch_combo validus_addison-userdebug
+add_lunch_combo cos_addison-userdebug
